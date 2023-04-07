@@ -6,6 +6,7 @@ some awesome addons for zotero
 * 用来自动下载scihub
 * This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.
 
+[Zotero GB/T 7714—2015 相关的 CSL 样式](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)
 
 # 美化类 Beutify
 [zotero-night](https://github.com/tefkah/zotero-night/) 
@@ -14,3 +15,4 @@ some awesome addons for zotero
 * Easier on the eyes for those late night deadlines.
 * 🌚 Dark-mode for PDF
 * It's 2022, we can change the colors of PDFs. Choice between two themes: a very dark one, and one that matches the background color.
+
